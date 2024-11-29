@@ -214,7 +214,7 @@ img {
     font-size: 18px;
     font-weight: 400;
     color: var(--light_white);
-    background: #7E60BF;
+    /* background: #7E60BF; */
     display: inline-flex;
     align-items: center;
     padding: 13px 26px;
@@ -235,7 +235,7 @@ img {
     content: '';
     width: 100%;
     height: 0;
-    background: var(--dark1);
+    /* background: var(--dark1); */
     border-radius: 5px 0 0 5px;
     position: absolute;
     top: 0;
@@ -1057,7 +1057,7 @@ img {
 
 /* Hero Section */
 .hero-empowerment-area {
-    background: linear-gradient(180deg, rgba(243, 246, 253, 0.7) 0%, rgba(243, 246, 253, 0) 86.26%);
+    background: linear-gradient(180deg,  rgba(243, 246, 253, 0.7) 0%, rgba(243, 246, 253, 0) 86.26%);
     padding-top: 124px;
 }
 
